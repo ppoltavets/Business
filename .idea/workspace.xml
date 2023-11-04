@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59314380-c671-4f67-be26-5f526e5ee14d" name="Changes" comment="init repo">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CalculateExitParams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59314380-c671-4f67-be26-5f526e5ee14d" name="Changes" comment="init basic classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699095104343</updated>
-      <workItem from="1699095105357" duration="3367000" />
+      <workItem from="1699095105357" duration="4139000" />
     </task>
     <task id="LOCAL-00001" summary="init repo">
       <option name="closed" value="true" />
@@ -135,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699097764341</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init basic classes">
+      <option name="closed" value="true" />
+      <created>1699099294867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699099294867</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init basic classes">
+      <option name="closed" value="true" />
+      <created>1699099371158</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699099371158</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="init repo" />
+    <MESSAGE value="init basic classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="init basic classes" />
   </component>
 </project>
