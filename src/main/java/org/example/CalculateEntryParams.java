@@ -9,7 +9,7 @@ public class CalculateEntryParams {
     private double other;
 
     // class
-    public double CalculateEntryParams(double salary, double rent, double food, double transport, double other) {
+    public double CalculateEntryParamsEntity(double salary, double rent, double food, double transport, double other) {
         this.salary = salary;
         this.rent = rent;
         this.food = food;
